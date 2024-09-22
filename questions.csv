@@ -1,0 +1,9 @@
+num,question,option1,option2,option3,option4,correctoption
+1,Sqrt(25),3,4,5,6,"& C:/Users/bjamma/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/python.exe ""c:/Users/bjamma/OneDrive - Cisco/Desktop/Python/project/question_master.py"""
+2,Sqrt(25),3,4,5,6,op3
+3,Find Prime Number?,12,13,18,20,op2
+4,Square Value of 12?,122,134,144,154,op3
+5,Which of the following is the correct extension of the python file?,.python,.p,.pl,.py,op4
+6,What is the possible length of an identifier?,16,32,64,None of this above,op4
+7,Who developed the python language?,Zim den,Guido van Russum,Neine Stom ,Wick van Rossum,op2
+8,In which Language python is written?,English,Php,C,All of the above,op3

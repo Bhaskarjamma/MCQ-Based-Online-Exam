@@ -1,0 +1,61 @@
+WARNING:root:CSV file not found. Starting with an empty question list.
+INFO:root:Saved questions to CSV.
+INFO:root:Added question: 20 + 30
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for & C:/Users/bjamma/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/python.exe "c:/Users/bjamma/OneDrive - Cisco/Desktop/Python/RestCode.py", Score: 0
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Added question: 10 + 20
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Modified question number: 1
+INFO:root:Saved questions to CSV.
+INFO:root:Modified question number: 1
+INFO:root:Saved questions to CSV.
+INFO:root:Modified question number: 1
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 20 * 3
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 3 * 4
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 20 / 4
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 2*5
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 40/4
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for bhaskar, Score: 4
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for bjamma, Score: 5
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for bjamma, Score: 4
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for bj, Score: 3
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: 20 * 30
+ERROR:root:New options cannot be empty or contain null values.
+INFO:root:Loaded questions from CSV.
+INFO:root:Loaded questions from CSV.
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Sqrt(25)
+INFO:root:Loaded questions from CSV.
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Sqrt(25)
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Find Prime Number?
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Square Value of 12?
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Which of the following is the correct extension of the python file?
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: What is the possible length of an identifier?
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: Who developed the python language?
+INFO:root:Saved questions to CSV.
+INFO:root:Question added: In which Language python is written?
+INFO:root:Loaded questions from CSV.
+INFO:root:Exam completed for Vamsi, Score: 3
+INFO:root:Loaded questions from CSV.
